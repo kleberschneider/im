@@ -30,7 +30,7 @@ window.onload = function() {
     'Gostei muito das fotos!!! 👏🏼👏🏼',
     'Mas parece que falta algo ali!',
     'Por que não mostra para seus amigos o que faz?',
-    'Isso mesmo, um portfolio bem bonito e e-mail personalizado!',
+    'Isso mesmo, um portfolio bem bonito e impactante!',
     'Aproveite o espaço - e o tempo consumido! - 🤘🏼',
     'Mostre que você se leva a sério e se coloque na vitrine! :)',
     'Se quiser falar mais sobre isso, <a href="mailto:via.instagram@pm.me?subject=CRIAÇÃO%20PORTFOLIO%20-%20PROFISSIONAL%20&body=Hey,%20Kleber!%20:)%0D%0A%0D%0AAchei%20bacana%20a%20idéia%20de%20ter%20meu%20portfolio%20interativo,%20profissional%20e%20personalizado,%20assim%20como%20ter%20um%20email@profissional(.)com.%0D%0A%0D%0AMas%20antes,%20eu%20quero%20dizer%20o%20que%20preciso:%0D%0A%0D%0A%0D%0A%0D%0A">estou sempre online</a>! 😉',
